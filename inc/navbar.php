@@ -1,6 +1,6 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
+    <a class="navbar-item" href="http://localhost/proyecto_inventario_php_sql/index.php?vista=home">
       <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
     </a>
 
@@ -21,9 +21,9 @@
         </a>
 
         <div class="navbar-dropdown">
-          <a class="navbar-item">Nuevo</a>
-          <a class="navbar-item">Lista</a>
-          <a class="navbar-item">Buscar</a>
+          <a class="navbar-item" href="http://localhost/proyecto_inventario_php_sql/index.php?vista=user_new">Nuevo</a>
+          <a class="navbar-item" href="http://localhost/proyecto_inventario_php_sql/index.php?vista=user_list">Lista</a>
+          <a class="navbar-item" href="http://localhost/proyecto_inventario_php_sql/index.php?vista=user_search">Buscar</a>
         </div>
       </div>
 
